@@ -1,0 +1,9 @@
+run-type: nat
+local-addr: 0.0.0.0
+local-port: 1080
+remote-addr: your_server
+remote-port: 443
+password:
+    - your_password
+router:
+    enabled: false
